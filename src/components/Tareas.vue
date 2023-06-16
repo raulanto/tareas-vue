@@ -16,7 +16,7 @@
             
         </article>
         <section class="px-3 bg-gray-50/100">
-        <ul class="list-decimal >
+        <ul class="list-decimal">
             <li
                 v-for="(task, i) in tasks"
                 :key="'task' + i"
