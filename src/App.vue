@@ -4,14 +4,7 @@ import Tareas from './components/Tareas.vue';
 </script>
 
 <template>
-  <main class="flex flex-grow w-screen justify-center ">
+  <main class="flex min-w-screen min-h-screen  justify-center items-center bg-gray-100">
     <Tareas/>
   </main>
 </template>
-
-<style>
-  html,
-  body {
-    height: 100%;
-  }
-</style>
