@@ -6,6 +6,7 @@
         <ul class="my-5 text-xl list-outside list-disc px-5">
             <li class="hover:font-extrabold transition-all hover:text-red-500">
                 <a href=""><router-link to="/Tarea" >Lista de Tareas</router-link></a>
+
                
             </li>
             <li class="hover:font-extrabold transition-all hover:text-red-500">
