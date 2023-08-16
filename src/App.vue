@@ -4,7 +4,7 @@
 // import Nav from './components/Nav.vue';
 // import Home from './components/Home.vue';
 
-import Productos from './components/Productos.vue';
+import card from './components/Card.vue';
 
 
 
@@ -20,6 +20,6 @@ import Productos from './components/Productos.vue';
       </article>
     </section>
   </main> -->
-  <Productos></Productos>
+  <card></card>
 
 </template>
